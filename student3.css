@@ -1,0 +1,39 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+  
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+  
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+nav li{
+border: 2px solid black;
+border-color: black;
+border-radius: 25px;
+font-family: 'Lucinda Sans', 'Lucinda Sans Regular', 'Lucinda Grande';
+padding: 15px;
+margin: 20px;
+width: 20%;
+display: inline-block;
+background-color: pink;
+} 
+main img{
+    box-sizing: border-box;
+    width: 24%;
+    padding: 15px;
+    margin: 0;
+    border: 5px solid pink;
+}
+p{
+    color: pink;
+    font-size: 25px;
+    font-style: italic;
+}
+
